@@ -71,6 +71,11 @@ header h1:before {
   font-size: 26px;
 }
 
+header h1:after {
+  content: "> _";
+  font-size: 26px;
+}
+
 header h2 {
   font-size: 18px;
   font-weight: 300;
