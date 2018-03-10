@@ -3,6 +3,27 @@ description: A Challenger Series for PowerShell bootcamp readers community
 
 baseurl: /psbootcamp-blog
 
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 3
+paginate_path: /page:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-hacker
