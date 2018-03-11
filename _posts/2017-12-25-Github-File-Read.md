@@ -23,7 +23,7 @@ Invoke-RestMethod -Method GET -Uri $csv
 }
 ```
 
-The out will be produces as:  
+The output will be produced as:  
 ```
 
 FirstName      : SQL
@@ -31,7 +31,6 @@ LastName       : Install Account
 SamAccountName : sqlinstall
 Title          : Service Account
 Manager        : 
-
 
 FirstName      : Amit
 LastName       : Shukla
@@ -63,11 +62,7 @@ SamAccountName : mmobin
 Title          : PsBootcamp Admin
 Manager        : TBD
 
-FirstName      : Md
-LastName       : Farooq
-SamAccountName : mfarooq
-Title          : IIS Admin
-Manager        : TBD
-
+.......
+.......
 
 ```
