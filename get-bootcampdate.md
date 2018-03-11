@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###The next date for Poweshell Bootcamp is being and discussed among the organising team...
+### [](#header-3)The next date for Poweshell Bootcamp is being and discussed among the organising team...
 
 We will publish the date and venue soon here..  
   
