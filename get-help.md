@@ -10,7 +10,8 @@ NAME
     
 INTRODUCTION
     psbootcamp is an effort of few PowerShell Enthusiasts to create a platform for collaborative learning  
-    of PowerShell and scripting in general also keep like minded people to comeup with new idaes and new challenges.  
+    of PowerShell and scripting in general also keep like minded people to comeup with new idaes and new   
+    challenges.  
 
 ALIASES
     psbootcamp    
