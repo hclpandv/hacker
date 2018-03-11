@@ -14,7 +14,7 @@ I am using a very simple example where the file is kept in public repository, he
 Alternatively `Invoke-RestMethod` can be used specialy if you have kept the file on a private github repository and you have your credential or api key to access. Invoke-RestMethod will provide you parameters to pass on Cred or Api Keys. (play with it to achive desired results)  
 Below is snippet of a working code.
 
-```Powershell
+```powershell
 #NOTE: Remember to use raw code url i.e. https://raw.<your github path>
 $csv = "https://raw.githubusercontent.com/hclpandv/psbootcamp-temp/master/users.csv"
 Invoke-WebRequest $csv | ConvertFrom-Csv 
