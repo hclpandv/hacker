@@ -4,6 +4,6 @@ published: true
 Author: Ashwani Kumar
 ---
 
-# [](#header-1)Guys Please submit your solutions on $week.current.challenge() link now and we will publish the best solution before this weekend..
+# [](#header-3)Guys Please submit your solutions on $week.current.challenge() link now and we will publish the best solution before this weekend..
 
 ```
