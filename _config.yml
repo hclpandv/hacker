@@ -26,5 +26,5 @@ plugins:
   - jekyll-sitemap
 
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-hacker
